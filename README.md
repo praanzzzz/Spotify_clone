@@ -3,8 +3,11 @@
 
 
 Clone the source code by setting up flutter, dart, android studio for emulation, and vscode in your computer.
+
 copy the files in the lib folder to your lib folder
+
 create assets/images folder and paste the images.
+
 add all the images within the assets/images directory to your pubspec.yaml file in Flutter, Here's how you can do it:
 
 Open your pubspec.yaml file in your Flutter project.
