@@ -9,9 +9,9 @@ Mobile App flutter Emergency app
 ```bash
 flutter create swift_response_app
 ```
-###copy the files in the lib folder to your lib folder
+### copy the files in the lib folder to your lib folder
 
-###create assets/images folder and paste the images.
+### create assets/images folder and paste the images.
 
 -->
 Open your pubspec.yaml file in your Flutter project. Locate the flutter section within the pubspec.yaml file. If there isn't one, you can create it. Inside the flutter section, add an assets subsection if it's not already present. Within the assets subsection, you can use wildcards to include all the images within the assets/images directory. Here's an example:
