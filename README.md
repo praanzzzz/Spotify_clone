@@ -5,7 +5,7 @@
 # SwiftResponse
 Mobile App flutter Emergency app
 
--->Create a flutter project
+-->Create a flutter project:
 ```bash
 flutter create swift_response_app
 ```
