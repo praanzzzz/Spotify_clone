@@ -1,5 +1,5 @@
 # Spotify_clone
-# Features: Toast, Redirection to another page, Bottonnavbar, confirmation dialog.
+# Features: Toast, Redirection to another page, Bottomavbar, confirmation dialog.
 
 
 Clone the source code by setting up flutter, dart, android studio for emulation, and vscode in your computer.
