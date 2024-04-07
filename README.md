@@ -1,4 +1,7 @@
 # Spotify_clone
+# Features: Toast, Redirection to another page, Bottonnavbar, confirmation dialog.
+
+
 Clone the source code by setting up flutter, dart, android studio for emulation, and vscode in your computer.
 
 copy the files in the lib folder to your lib folder
