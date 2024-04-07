@@ -24,9 +24,15 @@ flutter:
     - assets/images/
 ```
 
-After saving the pubspec.yaml file, run "flutter pub get" in your terminal to make sure Flutter pulls in the new assets.
+-->After saving the pubspec.yaml file, run this in your terminal to make sure Flutter pulls in the new assets:
+```bash
+flutter pub get
+```
 
-### On the console, type "flutter run"
+-->on the console, run the project:
+```bash
+flutter run
+```
 
 setup toast package if necessary or error occurs.
 
