@@ -1,5 +1,5 @@
 # Spotify_clone
-### Features: Toast, Redirection to another page, Bottomavbar, confirmation dialog.
+### Features: Toast, Redirection to another page, Bottomnavbar, confirmation dialog.
 
 
 # SwiftResponse
