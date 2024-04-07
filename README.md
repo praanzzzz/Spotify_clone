@@ -26,3 +26,6 @@ flutter:
   After saving the pubspec.yaml file, run "flutter pub get" in your terminal to make sure Flutter pulls in the new assets.
 
   On the console, type "flutter run"
+
+
+  setup toast package if necessary or error occurs.
